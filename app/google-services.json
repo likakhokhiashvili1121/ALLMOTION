@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804344769537",
+    "project_id": "allmotion-f7397",
+    "storage_bucket": "allmotion-f7397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804344769537:android:ce1b0b8a5c7c2ffcada400",
+        "android_client_info": {
+          "package_name": "com.example.allmotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804344769537-2jrvu6uphrfbvpi68uudglq2pfi06tqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuqMKSrqfJsZ8AfZd1upkq2eTTNbPXwE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804344769537-2jrvu6uphrfbvpi68uudglq2pfi06tqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
